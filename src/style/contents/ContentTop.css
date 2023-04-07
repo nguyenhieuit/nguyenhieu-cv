@@ -1,0 +1,49 @@
+.content-top{
+    background-color: var(--color-warm);
+    display: flex;
+    padding: 12px;
+}
+.infor-left{
+    width: 60%;
+}
+.infor-left h1,
+.infor-left h2{
+    padding: 0 52px;
+    margin-bottom: 8px;
+}
+.profile{
+    margin-top: 12px;
+}
+.profile ul li{
+    padding: 8px 0;
+    font-size: 18px;
+    line-height: 2;
+}
+.profile ul li i{
+    padding: 8px 11px;
+    background-color: var(--color-orange);
+    margin-right: 12px;
+    border-radius: 50px;
+}
+.profile ul li a{
+    cursor: pointer;
+}
+
+.infor-right{
+    width: 40%;
+    text-align: center;
+}
+.infor-right .image-profile{
+    background-color: antiquewhite;
+}
+.infor-right img{
+    border-radius: 10px;
+    width: 60%;
+    height: auto;
+}
+/* ------------- */
+.line{
+    /* margin: 4px 0 0 0; */
+    height: 4px;
+    background-color: var(--color-orange);
+}

@@ -1,0 +1,12 @@
+@import "./ContentTop.css";
+@import "./ContentBot.css";
+
+.container{
+    width: 70%;
+    margin: 0 auto;
+    /* padding: 12px; */
+    background-color: var(--color-blue);
+    box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.75);
+}
