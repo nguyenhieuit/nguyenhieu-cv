@@ -58,6 +58,25 @@ export default function ContentBot() {
                                 <p>Listen to music</p>
                             </li>
                         </ul>
+                        <div className="title-line">
+                            <h3>Other</h3>
+                            <div className="line"></div>
+                        </div>
+                        <ul>
+                            <li>
+                                <p>
+                                    Collaborator on some TSK Media company
+                                    events such as: Quang Ngai Marathon,
+                                    Sparkling Quy Nhon 2023, Tam Ky discovery
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    Organized many offline programs, seminars,
+                                    volunteering, seminars at Duy Tan University
+                                </p>
+                            </li>
+                        </ul>
                     </div>
                 </div>
                 <div className="mid"></div>
